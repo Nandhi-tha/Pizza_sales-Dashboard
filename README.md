@@ -1,1 +1,2 @@
-# Pizza_sales-Dashboard
+# Pizza sales Dashboard
+The pizza sales report dashboard, built using MySQL and Power BI, analyzes over 45,000 rows of data to provide comprehensive insights. It includes daily and monthly trends for total orders, highlighting fluctuations and seasonal performance. The dashboard shows the percentage of sales by pizza category and size, offering a clear breakdown of customer preferences. It also displays the total pizzas sold by category, identifying the most popular types. Additionally, it ranks the top 5 and bottom 5 pizzas by revenue, quantity, and total orders, helping pinpoint both best-sellers and underperformers. This powerful tool enables data-driven decisions for optimizing sales and inventory management.
